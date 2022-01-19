@@ -19,10 +19,10 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
-    "@sushiswap/core-sdk": "^1.0.0-canary.22"
+    "@candlelabs/core-sdk": "^1.0.1"
   },
   "description": "## Requirements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "directories": {
     "test": "test"
   },
