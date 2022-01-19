@@ -1,9 +1,9 @@
 {
   "name": "@candlelabs/logos",
-  "private": true,
+  "private": false,
   "main": "./bin/index.js",
   "bin": {
-    "logos-cli": "./bin/index.js"
+    "logos-cli": "bin/index.js"
   },
   "scripts": {
     "test": "jest"
@@ -20,5 +20,23 @@
   },
   "dependencies": {
     "@sushiswap/core-sdk": "^1.0.0-canary.22"
-  }
+  },
+  "description": "## Requirements",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CandlePlatforms/logos.git"
+  },
+  "keywords": [
+    "Candle"
+  ],
+  "author": "Candle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CandlePlatforms/logos/issues"
+  },
+  "homepage": "https://github.com/CandlePlatforms/logos#readme"
 }
