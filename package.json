@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/logos",
+  "name": "@candlelabs/logos",
   "private": true,
   "main": "./bin/index.js",
   "bin": {
